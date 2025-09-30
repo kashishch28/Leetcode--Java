@@ -98,4 +98,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kashishch28/Leetcode--Java/tree/master/0209-minimum-size-subarray-sum) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/kashishch28/Leetcode--Java/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/kashishch28/Leetcode--Java/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/kashishch28/Leetcode--Java/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->

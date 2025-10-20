@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/kashishch28/Leetcode--Java/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/kashishch28/Leetcode--Java/tree/master/0229-majority-element-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/kashishch28/Leetcode--Java/tree/master/1018-largest-perimeter-triangle) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/kashishch28/Leetcode--Java/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/kashishch28/Leetcode--Java/tree/master/0165-compare-version-numbers) |
 | [0387-first-unique-character-in-a-string](https://github.com/kashishch28/Leetcode--Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/kashishch28/Leetcode--Java/tree/master/0409-longest-palindrome) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/kashishch28/Leetcode--Java/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Sliding Window
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/kashishch28/Leetcode--Java/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3336-water-bottles-ii](https://github.com/kashishch28/Leetcode--Java/tree/master/3336-water-bottles-ii) |
 ## Tree
 |  |

@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/kashishch28/Leetcode--Java/tree/master/0009-palindrome-number) |
 | [1018-largest-perimeter-triangle](https://github.com/kashishch28/Leetcode--Java/tree/master/1018-largest-perimeter-triangle) |
 | [3336-water-bottles-ii](https://github.com/kashishch28/Leetcode--Java/tree/master/3336-water-bottles-ii) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/kashishch28/Leetcode--Java/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
 | ------- |
@@ -206,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/kashishch28/Leetcode--Java/tree/master/0975-range-sum-of-bst) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3676-smallest-number-with-all-set-bits](https://github.com/kashishch28/Leetcode--Java/tree/master/3676-smallest-number-with-all-set-bits) |
 <!---LeetCode Topics End-->

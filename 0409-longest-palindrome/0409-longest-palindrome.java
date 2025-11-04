@@ -1,10 +1,10 @@
 class Solution {
     public int longestPalindrome(String s) {
-        HashMap<Character,Integer>map = new HashMap<>();
+        int n=0;
+        HashMap<Character,Integer> map = new HashMap<>();
         for(char c:s.toCharArray()){
             map.put(c,map.getOrDefault(c,0)+1);
         }
-        int n=0;
         boolean odd=false;
         for(int count:map.values()){
             if(count%2==0){
@@ -12,7 +12,7 @@ class Solution {
             }
             else{
                 n+=count-1;
-                odd=true;
+                odd = true;
             }
         }
         if(odd){

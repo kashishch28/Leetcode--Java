@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/kashishch28/Leetcode--Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/kashishch28/Leetcode--Java/tree/master/0035-search-insert-position) |
 | [0057-insert-interval](https://github.com/kashishch28/Leetcode--Java/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/kashishch28/Leetcode--Java/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/kashishch28/Leetcode--Java/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/kashishch28/Leetcode--Java/tree/master/0120-triangle) |
@@ -224,5 +225,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/kashishch28/Leetcode--Java/tree/master/0078-subsets) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/kashishch28/Leetcode--Java/tree/master/3676-smallest-number-with-all-set-bits) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/kashishch28/Leetcode--Java/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

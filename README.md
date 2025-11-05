@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kashishch28/Leetcode--Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0131-palindrome-partitioning](https://github.com/kashishch28/Leetcode--Java/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/kashishch28/Leetcode--Java/tree/master/0165-compare-version-numbers) |
 | [0387-first-unique-character-in-a-string](https://github.com/kashishch28/Leetcode--Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/kashishch28/Leetcode--Java/tree/master/0409-longest-palindrome) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/kashishch28/Leetcode--Java/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/kashishch28/Leetcode--Java/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kashishch28/Leetcode--Java/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/kashishch28/Leetcode--Java/tree/master/0131-palindrome-partitioning) |
 ## Greedy
 |  |
 | ------- |
@@ -236,4 +238,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/kashishch28/Leetcode--Java/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/kashishch28/Leetcode--Java/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kashishch28/Leetcode--Java/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/kashishch28/Leetcode--Java/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->

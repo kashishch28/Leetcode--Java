@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/kashishch28/Leetcode--Java/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kashishch28/Leetcode--Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/kashishch28/Leetcode--Java/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/kashishch28/Leetcode--Java/tree/master/0046-permutations) |
 | [0057-insert-interval](https://github.com/kashishch28/Leetcode--Java/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/kashishch28/Leetcode--Java/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kashishch28/Leetcode--Java/tree/master/0090-subsets-ii) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/kashishch28/Leetcode--Java/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/kashishch28/Leetcode--Java/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kashishch28/Leetcode--Java/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->

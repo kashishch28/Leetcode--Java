@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/kashishch28/Leetcode--Java/tree/master/0455-assign-cookies) |
 | [1018-largest-perimeter-triangle](https://github.com/kashishch28/Leetcode--Java/tree/master/1018-largest-perimeter-triangle) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kashishch28/Leetcode--Java/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/kashishch28/Leetcode--Java/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kashishch28/Leetcode--Java/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/kashishch28/Leetcode--Java/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/kashishch28/Leetcode--Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/kashishch28/Leetcode--Java/tree/master/0409-longest-palindrome) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/kashishch28/Leetcode--Java/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kashishch28/Leetcode--Java/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Linked List
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/kashishch28/Leetcode--Java/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/kashishch28/Leetcode--Java/tree/master/0455-assign-cookies) |
 | [1018-largest-perimeter-triangle](https://github.com/kashishch28/Leetcode--Java/tree/master/1018-largest-perimeter-triangle) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/kashishch28/Leetcode--Java/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Counting
 |  |
 | ------- |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kashishch28/Leetcode--Java/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/kashishch28/Leetcode--Java/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/kashishch28/Leetcode--Java/tree/master/2288-count-operations-to-obtain-zero) |
 | [3336-water-bottles-ii](https://github.com/kashishch28/Leetcode--Java/tree/master/3336-water-bottles-ii) |
 ## Tree

@@ -38,6 +38,7 @@
 | [0229-majority-element-ii](https://github.com/kashishch28/Leetcode--Java/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/kashishch28/Leetcode--Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/kashishch28/Leetcode--Java/tree/master/0409-longest-palindrome) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/kashishch28/Leetcode--Java/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/kashishch28/Leetcode--Java/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kashishch28/Leetcode--Java/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Linked List
@@ -57,6 +58,7 @@
 | [0002-add-two-numbers](https://github.com/kashishch28/Leetcode--Java/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/kashishch28/Leetcode--Java/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kashishch28/Leetcode--Java/tree/master/0009-palindrome-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/kashishch28/Leetcode--Java/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/kashishch28/Leetcode--Java/tree/master/1018-largest-perimeter-triangle) |
 | [2288-count-operations-to-obtain-zero](https://github.com/kashishch28/Leetcode--Java/tree/master/2288-count-operations-to-obtain-zero) |
 | [3336-water-bottles-ii](https://github.com/kashishch28/Leetcode--Java/tree/master/3336-water-bottles-ii) |

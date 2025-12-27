@@ -17,6 +17,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/kashishch28/Leetcode--Java/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/kashishch28/Leetcode--Java/tree/master/0120-triangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kashishch28/Leetcode--Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/kashishch28/Leetcode--Java/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/kashishch28/Leetcode--Java/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/kashishch28/Leetcode--Java/tree/master/0209-minimum-size-subarray-sum) |
@@ -66,6 +67,7 @@
 | [0002-add-two-numbers](https://github.com/kashishch28/Leetcode--Java/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/kashishch28/Leetcode--Java/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kashishch28/Leetcode--Java/tree/master/0009-palindrome-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kashishch28/Leetcode--Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/kashishch28/Leetcode--Java/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/kashishch28/Leetcode--Java/tree/master/1018-largest-perimeter-triangle) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/kashishch28/Leetcode--Java/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -166,6 +168,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kashishch28/Leetcode--Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kashishch28/Leetcode--Java/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kashishch28/Leetcode--Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/kashishch28/Leetcode--Java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kashishch28/Leetcode--Java/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/kashishch28/Leetcode--Java/tree/master/0234-palindrome-linked-list) |

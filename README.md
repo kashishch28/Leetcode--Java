@@ -26,6 +26,7 @@
 | [0455-assign-cookies](https://github.com/kashishch28/Leetcode--Java/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/kashishch28/Leetcode--Java/tree/master/0645-set-mismatch) |
 | [1018-largest-perimeter-triangle](https://github.com/kashishch28/Leetcode--Java/tree/master/1018-largest-perimeter-triangle) |
+| [1441-build-an-array-with-stack-operations](https://github.com/kashishch28/Leetcode--Java/tree/master/1441-build-an-array-with-stack-operations) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/kashishch28/Leetcode--Java/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1929-concatenation-of-array](https://github.com/kashishch28/Leetcode--Java/tree/master/1929-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kashishch28/Leetcode--Java/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -168,6 +169,7 @@
 | [0225-implement-stack-using-queues](https://github.com/kashishch28/Leetcode--Java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kashishch28/Leetcode--Java/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/kashishch28/Leetcode--Java/tree/master/0234-palindrome-linked-list) |
+| [1441-build-an-array-with-stack-operations](https://github.com/kashishch28/Leetcode--Java/tree/master/1441-build-an-array-with-stack-operations) |
 ## Design
 |  |
 | ------- |
@@ -182,6 +184,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/kashishch28/Leetcode--Java/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/kashishch28/Leetcode--Java/tree/master/1929-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kashishch28/Leetcode--Java/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/kashishch28/Leetcode--Java/tree/master/2274-keep-multiplying-found-values-by-two) |

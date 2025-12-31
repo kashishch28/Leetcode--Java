@@ -69,6 +69,7 @@
 | [0007-reverse-integer](https://github.com/kashishch28/Leetcode--Java/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kashishch28/Leetcode--Java/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kashishch28/Leetcode--Java/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0728-self-dividing-numbers](https://github.com/kashishch28/Leetcode--Java/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/kashishch28/Leetcode--Java/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/kashishch28/Leetcode--Java/tree/master/1018-largest-perimeter-triangle) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/kashishch28/Leetcode--Java/tree/master/1071-greatest-common-divisor-of-strings) |

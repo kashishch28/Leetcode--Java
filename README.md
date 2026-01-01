@@ -12,6 +12,7 @@
 | [0035-search-insert-position](https://github.com/kashishch28/Leetcode--Java/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/kashishch28/Leetcode--Java/tree/master/0046-permutations) |
 | [0057-insert-interval](https://github.com/kashishch28/Leetcode--Java/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/kashishch28/Leetcode--Java/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/kashishch28/Leetcode--Java/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kashishch28/Leetcode--Java/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -68,6 +69,7 @@
 | [0002-add-two-numbers](https://github.com/kashishch28/Leetcode--Java/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/kashishch28/Leetcode--Java/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kashishch28/Leetcode--Java/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/kashishch28/Leetcode--Java/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kashishch28/Leetcode--Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0728-self-dividing-numbers](https://github.com/kashishch28/Leetcode--Java/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/kashishch28/Leetcode--Java/tree/master/1015-smallest-integer-divisible-by-k) |

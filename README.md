@@ -222,6 +222,7 @@
 | [0404-sum-of-left-leaves](https://github.com/kashishch28/Leetcode--Java/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/kashishch28/Leetcode--Java/tree/master/0975-range-sum-of-bst) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -235,6 +236,7 @@
 | [0404-sum-of-left-leaves](https://github.com/kashishch28/Leetcode--Java/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/kashishch28/Leetcode--Java/tree/master/0975-range-sum-of-bst) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -244,6 +246,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/kashishch28/Leetcode--Java/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/kashishch28/Leetcode--Java/tree/master/0404-sum-of-left-leaves) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -261,6 +264,7 @@
 | [0404-sum-of-left-leaves](https://github.com/kashishch28/Leetcode--Java/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/kashishch28/Leetcode--Java/tree/master/0975-range-sum-of-bst) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |

@@ -102,6 +102,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/kashishch28/Leetcode--Java/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/kashishch28/Leetcode--Java/tree/master/1768-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kashishch28/Leetcode--Java/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/kashishch28/Leetcode--Java/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/kashishch28/Leetcode--Java/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Sliding Window
 |  |
@@ -185,6 +186,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/kashishch28/Leetcode--Java/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/kashishch28/Leetcode--Java/tree/master/0234-palindrome-linked-list) |
 | [1441-build-an-array-with-stack-operations](https://github.com/kashishch28/Leetcode--Java/tree/master/1441-build-an-array-with-stack-operations) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/kashishch28/Leetcode--Java/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Design
 |  |
 | ------- |
@@ -206,6 +208,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kashishch28/Leetcode--Java/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/kashishch28/Leetcode--Java/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/kashishch28/Leetcode--Java/tree/master/2288-count-operations-to-obtain-zero) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/kashishch28/Leetcode--Java/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3336-water-bottles-ii](https://github.com/kashishch28/Leetcode--Java/tree/master/3336-water-bottles-ii) |
 ## Tree
 |  |

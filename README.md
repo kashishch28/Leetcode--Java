@@ -53,6 +53,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kashishch28/Leetcode--Java/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/kashishch28/Leetcode--Java/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/kashishch28/Leetcode--Java/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2531-make-number-of-distinct-characters-equal](https://github.com/kashishch28/Leetcode--Java/tree/master/2531-make-number-of-distinct-characters-equal) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kashishch28/Leetcode--Java/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Linked List
 |  |
@@ -103,6 +104,7 @@
 | [1544-make-the-string-great](https://github.com/kashishch28/Leetcode--Java/tree/master/1544-make-the-string-great) |
 | [1768-merge-strings-alternately](https://github.com/kashishch28/Leetcode--Java/tree/master/1768-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kashishch28/Leetcode--Java/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2531-make-number-of-distinct-characters-equal](https://github.com/kashishch28/Leetcode--Java/tree/master/2531-make-number-of-distinct-characters-equal) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/kashishch28/Leetcode--Java/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/kashishch28/Leetcode--Java/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Sliding Window
@@ -135,6 +137,7 @@
 | [0169-majority-element](https://github.com/kashishch28/Leetcode--Java/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kashishch28/Leetcode--Java/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/kashishch28/Leetcode--Java/tree/master/0387-first-unique-character-in-a-string) |
+| [2531-make-number-of-distinct-characters-equal](https://github.com/kashishch28/Leetcode--Java/tree/master/2531-make-number-of-distinct-characters-equal) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/kashishch28/Leetcode--Java/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Two Pointers
 |  |

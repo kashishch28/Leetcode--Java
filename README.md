@@ -36,6 +36,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kashishch28/Leetcode--Java/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kashishch28/Leetcode--Java/tree/master/2073-time-needed-to-buy-tickets) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kashishch28/Leetcode--Java/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/kashishch28/Leetcode--Java/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/kashishch28/Leetcode--Java/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/kashishch28/Leetcode--Java/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kashishch28/Leetcode--Java/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -81,6 +82,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/kashishch28/Leetcode--Java/tree/master/1018-largest-perimeter-triangle) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/kashishch28/Leetcode--Java/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/kashishch28/Leetcode--Java/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/kashishch28/Leetcode--Java/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2288-count-operations-to-obtain-zero](https://github.com/kashishch28/Leetcode--Java/tree/master/2288-count-operations-to-obtain-zero) |
 | [3336-water-bottles-ii](https://github.com/kashishch28/Leetcode--Java/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/kashishch28/Leetcode--Java/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -135,6 +137,7 @@
 | [1200-minimum-absolute-difference](https://github.com/kashishch28/Leetcode--Java/tree/master/1200-minimum-absolute-difference) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/kashishch28/Leetcode--Java/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kashishch28/Leetcode--Java/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/kashishch28/Leetcode--Java/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/kashishch28/Leetcode--Java/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Counting
 |  |
@@ -172,6 +175,7 @@
 | [0455-assign-cookies](https://github.com/kashishch28/Leetcode--Java/tree/master/0455-assign-cookies) |
 | [1018-largest-perimeter-triangle](https://github.com/kashishch28/Leetcode--Java/tree/master/1018-largest-perimeter-triangle) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/kashishch28/Leetcode--Java/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/kashishch28/Leetcode--Java/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/kashishch28/Leetcode--Java/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Binary Search
 |  |

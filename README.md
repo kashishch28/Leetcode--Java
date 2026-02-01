@@ -40,6 +40,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kashishch28/Leetcode--Java/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/kashishch28/Leetcode--Java/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/kashishch28/Leetcode--Java/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/kashishch28/Leetcode--Java/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/kashishch28/Leetcode--Java/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kashishch28/Leetcode--Java/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
@@ -145,6 +146,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kashishch28/Leetcode--Java/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/kashishch28/Leetcode--Java/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/kashishch28/Leetcode--Java/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/kashishch28/Leetcode--Java/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Counting
 |  |
 | ------- |
@@ -322,4 +324,8 @@
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/kashishch28/Leetcode--Java/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Enumeration
+|  |
+| ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/kashishch28/Leetcode--Java/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 <!---LeetCode Topics End-->

@@ -36,6 +36,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/kashishch28/Leetcode--Java/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/kashishch28/Leetcode--Java/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kashishch28/Leetcode--Java/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2007-find-original-array-from-doubled-array](https://github.com/kashishch28/Leetcode--Java/tree/master/2007-find-original-array-from-doubled-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kashishch28/Leetcode--Java/tree/master/2073-time-needed-to-buy-tickets) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kashishch28/Leetcode--Java/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/kashishch28/Leetcode--Java/tree/master/2195-append-k-integers-with-minimal-sum) |
@@ -59,6 +60,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kashishch28/Leetcode--Java/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/kashishch28/Leetcode--Java/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/kashishch28/Leetcode--Java/tree/master/1189-maximum-number-of-balloons) |
+| [2007-find-original-array-from-doubled-array](https://github.com/kashishch28/Leetcode--Java/tree/master/2007-find-original-array-from-doubled-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/kashishch28/Leetcode--Java/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/kashishch28/Leetcode--Java/tree/master/2531-make-number-of-distinct-characters-equal) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kashishch28/Leetcode--Java/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -144,6 +146,7 @@
 | [1200-minimum-absolute-difference](https://github.com/kashishch28/Leetcode--Java/tree/master/1200-minimum-absolute-difference) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/kashishch28/Leetcode--Java/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kashishch28/Leetcode--Java/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2007-find-original-array-from-doubled-array](https://github.com/kashishch28/Leetcode--Java/tree/master/2007-find-original-array-from-doubled-array) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/kashishch28/Leetcode--Java/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/kashishch28/Leetcode--Java/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/kashishch28/Leetcode--Java/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -184,6 +187,7 @@
 | [0455-assign-cookies](https://github.com/kashishch28/Leetcode--Java/tree/master/0455-assign-cookies) |
 | [1018-largest-perimeter-triangle](https://github.com/kashishch28/Leetcode--Java/tree/master/1018-largest-perimeter-triangle) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/kashishch28/Leetcode--Java/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [2007-find-original-array-from-doubled-array](https://github.com/kashishch28/Leetcode--Java/tree/master/2007-find-original-array-from-doubled-array) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/kashishch28/Leetcode--Java/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/kashishch28/Leetcode--Java/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Binary Search

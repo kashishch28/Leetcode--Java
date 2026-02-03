@@ -87,6 +87,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/kashishch28/Leetcode--Java/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/kashishch28/Leetcode--Java/tree/master/1018-largest-perimeter-triangle) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/kashishch28/Leetcode--Java/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kashishch28/Leetcode--Java/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/kashishch28/Leetcode--Java/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/kashishch28/Leetcode--Java/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/kashishch28/Leetcode--Java/tree/master/2195-append-k-integers-with-minimal-sum) |

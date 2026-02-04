@@ -108,6 +108,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kashishch28/Leetcode--Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/kashishch28/Leetcode--Java/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/kashishch28/Leetcode--Java/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/kashishch28/Leetcode--Java/tree/master/0165-compare-version-numbers) |
 | [0387-first-unique-character-in-a-string](https://github.com/kashishch28/Leetcode--Java/tree/master/0387-first-unique-character-in-a-string) |
@@ -207,6 +208,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kashishch28/Leetcode--Java/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kashishch28/Leetcode--Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kashishch28/Leetcode--Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kashishch28/Leetcode--Java/tree/master/0150-evaluate-reverse-polish-notation) |

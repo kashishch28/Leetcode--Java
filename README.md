@@ -119,6 +119,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/kashishch28/Leetcode--Java/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/kashishch28/Leetcode--Java/tree/master/1189-maximum-number-of-balloons) |
 | [1544-make-the-string-great](https://github.com/kashishch28/Leetcode--Java/tree/master/1544-make-the-string-great) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/kashishch28/Leetcode--Java/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1768-merge-strings-alternately](https://github.com/kashishch28/Leetcode--Java/tree/master/1768-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kashishch28/Leetcode--Java/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/kashishch28/Leetcode--Java/tree/master/2531-make-number-of-distinct-characters-equal) |
@@ -185,6 +186,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/kashishch28/Leetcode--Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/kashishch28/Leetcode--Java/tree/master/0131-palindrome-partitioning) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/kashishch28/Leetcode--Java/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/kashishch28/Leetcode--Java/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Greedy
 |  |
 | ------- |
@@ -222,6 +224,7 @@
 | [0856-score-of-parentheses](https://github.com/kashishch28/Leetcode--Java/tree/master/0856-score-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/kashishch28/Leetcode--Java/tree/master/1441-build-an-array-with-stack-operations) |
 | [1544-make-the-string-great](https://github.com/kashishch28/Leetcode--Java/tree/master/1544-make-the-string-great) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/kashishch28/Leetcode--Java/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/kashishch28/Leetcode--Java/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Design
 |  |

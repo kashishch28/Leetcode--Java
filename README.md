@@ -27,6 +27,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kashishch28/Leetcode--Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/kashishch28/Leetcode--Java/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/kashishch28/Leetcode--Java/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/kashishch28/Leetcode--Java/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kashishch28/Leetcode--Java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kashishch28/Leetcode--Java/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/kashishch28/Leetcode--Java/tree/master/1018-largest-perimeter-triangle) |
@@ -207,6 +208,7 @@
 | [0035-search-insert-position](https://github.com/kashishch28/Leetcode--Java/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/kashishch28/Leetcode--Java/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/kashishch28/Leetcode--Java/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/kashishch28/Leetcode--Java/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kashishch28/Leetcode--Java/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Prefix Sum
 |  |

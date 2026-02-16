@@ -144,6 +144,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/kashishch28/Leetcode--Java/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/kashishch28/Leetcode--Java/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/1382-balance-a-binary-search-tree) |
 ## Sorting
 |  |
@@ -344,6 +345,7 @@
 | ------- |
 | [0078-subsets](https://github.com/kashishch28/Leetcode--Java/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kashishch28/Leetcode--Java/tree/master/0090-subsets-ii) |
+| [0190-reverse-bits](https://github.com/kashishch28/Leetcode--Java/tree/master/0190-reverse-bits) |
 | [0645-set-mismatch](https://github.com/kashishch28/Leetcode--Java/tree/master/0645-set-mismatch) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/kashishch28/Leetcode--Java/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Backtracking

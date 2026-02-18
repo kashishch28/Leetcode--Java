@@ -347,6 +347,7 @@
 | [0090-subsets-ii](https://github.com/kashishch28/Leetcode--Java/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/kashishch28/Leetcode--Java/tree/master/0190-reverse-bits) |
 | [0645-set-mismatch](https://github.com/kashishch28/Leetcode--Java/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/kashishch28/Leetcode--Java/tree/master/0693-binary-number-with-alternating-bits) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/kashishch28/Leetcode--Java/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Backtracking
 |  |

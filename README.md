@@ -120,6 +120,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/kashishch28/Leetcode--Java/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/kashishch28/Leetcode--Java/tree/master/0165-compare-version-numbers) |
 | [0387-first-unique-character-in-a-string](https://github.com/kashishch28/Leetcode--Java/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/kashishch28/Leetcode--Java/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/kashishch28/Leetcode--Java/tree/master/0409-longest-palindrome) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/kashishch28/Leetcode--Java/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0856-score-of-parentheses](https://github.com/kashishch28/Leetcode--Java/tree/master/0856-score-of-parentheses) |
@@ -189,6 +190,7 @@
 | [0165-compare-version-numbers](https://github.com/kashishch28/Leetcode--Java/tree/master/0165-compare-version-numbers) |
 | [0234-palindrome-linked-list](https://github.com/kashishch28/Leetcode--Java/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/kashishch28/Leetcode--Java/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/kashishch28/Leetcode--Java/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/kashishch28/Leetcode--Java/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/kashishch28/Leetcode--Java/tree/master/0611-valid-triangle-number) |
 | [1768-merge-strings-alternately](https://github.com/kashishch28/Leetcode--Java/tree/master/1768-merge-strings-alternately) |
@@ -199,6 +201,7 @@
 | [0120-triangle](https://github.com/kashishch28/Leetcode--Java/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kashishch28/Leetcode--Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/kashishch28/Leetcode--Java/tree/master/0131-palindrome-partitioning) |
+| [0392-is-subsequence](https://github.com/kashishch28/Leetcode--Java/tree/master/0392-is-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/kashishch28/Leetcode--Java/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/kashishch28/Leetcode--Java/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Greedy

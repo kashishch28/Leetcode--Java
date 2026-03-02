@@ -116,6 +116,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kashishch28/Leetcode--Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/kashishch28/Leetcode--Java/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/kashishch28/Leetcode--Java/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/kashishch28/Leetcode--Java/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/kashishch28/Leetcode--Java/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/kashishch28/Leetcode--Java/tree/master/0165-compare-version-numbers) |
@@ -197,6 +198,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kashishch28/Leetcode--Java/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/kashishch28/Leetcode--Java/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/kashishch28/Leetcode--Java/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kashishch28/Leetcode--Java/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -361,6 +363,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kashishch28/Leetcode--Java/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/kashishch28/Leetcode--Java/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/kashishch28/Leetcode--Java/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/kashishch28/Leetcode--Java/tree/master/0078-subsets) |

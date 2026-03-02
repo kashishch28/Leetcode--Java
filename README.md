@@ -31,6 +31,7 @@
 | [0611-valid-triangle-number](https://github.com/kashishch28/Leetcode--Java/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/kashishch28/Leetcode--Java/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/kashishch28/Leetcode--Java/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/kashishch28/Leetcode--Java/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kashishch28/Leetcode--Java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kashishch28/Leetcode--Java/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/kashishch28/Leetcode--Java/tree/master/1018-largest-perimeter-triangle) |
@@ -237,6 +238,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kashishch28/Leetcode--Java/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/kashishch28/Leetcode--Java/tree/master/0724-find-pivot-index) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/kashishch28/Leetcode--Java/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Stack
 |  |

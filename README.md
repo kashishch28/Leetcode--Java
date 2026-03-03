@@ -11,6 +11,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/kashishch28/Leetcode--Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/kashishch28/Leetcode--Java/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/kashishch28/Leetcode--Java/tree/master/0046-permutations) |
+| [0056-merge-intervals](https://github.com/kashishch28/Leetcode--Java/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/kashishch28/Leetcode--Java/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/kashishch28/Leetcode--Java/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/kashishch28/Leetcode--Java/tree/master/0078-subsets) |
@@ -157,6 +158,7 @@
 | ------- |
 | [0015-3sum](https://github.com/kashishch28/Leetcode--Java/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kashishch28/Leetcode--Java/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/kashishch28/Leetcode--Java/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/kashishch28/Leetcode--Java/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kashishch28/Leetcode--Java/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/kashishch28/Leetcode--Java/tree/master/0455-assign-cookies) |

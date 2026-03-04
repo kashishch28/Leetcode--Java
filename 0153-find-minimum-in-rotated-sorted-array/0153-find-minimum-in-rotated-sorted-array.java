@@ -20,13 +20,12 @@ class Solution{
         while(left<right){
             int mid = left+(right-left)/2;
             if(nums[mid]<nums[right]){
-                right=mid;
+                right = mid;
             }
-            
             else{
-                left=mid+1;
+                left = mid+1;
             }
         }
-        return nums[left];
+        return nums[left];//The minimum element is the pivot point.
     }
 }

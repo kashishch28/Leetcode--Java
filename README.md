@@ -125,6 +125,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/kashishch28/Leetcode--Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/kashishch28/Leetcode--Java/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kashishch28/Leetcode--Java/tree/master/0022-generate-parentheses) |
+| [0058-length-of-last-word](https://github.com/kashishch28/Leetcode--Java/tree/master/0058-length-of-last-word) |
 | [0131-palindrome-partitioning](https://github.com/kashishch28/Leetcode--Java/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/kashishch28/Leetcode--Java/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/kashishch28/Leetcode--Java/tree/master/0165-compare-version-numbers) |

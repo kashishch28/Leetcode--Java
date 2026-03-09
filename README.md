@@ -12,6 +12,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/kashishch28/Leetcode--Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/kashishch28/Leetcode--Java/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/kashishch28/Leetcode--Java/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/kashishch28/Leetcode--Java/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/kashishch28/Leetcode--Java/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/kashishch28/Leetcode--Java/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/kashishch28/Leetcode--Java/tree/master/0066-plus-one) |
@@ -160,6 +161,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/kashishch28/Leetcode--Java/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/kashishch28/Leetcode--Java/tree/master/0169-majority-element) |
@@ -217,6 +219,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kashishch28/Leetcode--Java/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/kashishch28/Leetcode--Java/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/kashishch28/Leetcode--Java/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/kashishch28/Leetcode--Java/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kashishch28/Leetcode--Java/tree/master/0124-binary-tree-maximum-path-sum) |

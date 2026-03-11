@@ -320,6 +320,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/kashishch28/Leetcode--Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kashishch28/Leetcode--Java/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/kashishch28/Leetcode--Java/tree/master/0222-count-complete-tree-nodes) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/kashishch28/Leetcode--Java/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/0543-diameter-of-binary-tree) |
@@ -337,6 +338,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/kashishch28/Leetcode--Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kashishch28/Leetcode--Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kashishch28/Leetcode--Java/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/kashishch28/Leetcode--Java/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/0543-diameter-of-binary-tree) |
@@ -370,6 +372,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/kashishch28/Leetcode--Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kashishch28/Leetcode--Java/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/kashishch28/Leetcode--Java/tree/master/0222-count-complete-tree-nodes) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/kashishch28/Leetcode--Java/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/0543-diameter-of-binary-tree) |
@@ -381,6 +384,7 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/kashishch28/Leetcode--Java/tree/master/0975-range-sum-of-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/1382-balance-a-binary-search-tree) |
 ## Bit Manipulation

@@ -325,6 +325,7 @@
 | [0404-sum-of-left-leaves](https://github.com/kashishch28/Leetcode--Java/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/0572-subtree-of-another-tree) |
 | [0975-range-sum-of-bst](https://github.com/kashishch28/Leetcode--Java/tree/master/0975-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/1382-balance-a-binary-search-tree) |
@@ -343,6 +344,7 @@
 | [0404-sum-of-left-leaves](https://github.com/kashishch28/Leetcode--Java/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/0572-subtree-of-another-tree) |
 | [0975-range-sum-of-bst](https://github.com/kashishch28/Leetcode--Java/tree/master/0975-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/1382-balance-a-binary-search-tree) |
@@ -376,6 +378,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/kashishch28/Leetcode--Java/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/0572-subtree-of-another-tree) |
 | [0975-range-sum-of-bst](https://github.com/kashishch28/Leetcode--Java/tree/master/0975-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/1382-balance-a-binary-search-tree) |
@@ -420,4 +423,12 @@
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kashishch28/Leetcode--Java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kashishch28/Leetcode--Java/tree/master/1582-special-positions-in-a-binary-matrix) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->

@@ -37,6 +37,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/kashishch28/Leetcode--Java/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/kashishch28/Leetcode--Java/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/kashishch28/Leetcode--Java/tree/master/0645-set-mismatch) |
+| [0695-max-area-of-island](https://github.com/kashishch28/Leetcode--Java/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/kashishch28/Leetcode--Java/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/kashishch28/Leetcode--Java/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kashishch28/Leetcode--Java/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -353,6 +354,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/kashishch28/Leetcode--Java/tree/master/0695-max-area-of-island) |
 | [0975-range-sum-of-bst](https://github.com/kashishch28/Leetcode--Java/tree/master/0975-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/1382-balance-a-binary-search-tree) |
@@ -366,6 +368,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/kashishch28/Leetcode--Java/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/kashishch28/Leetcode--Java/tree/master/0404-sum-of-left-leaves) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0695-max-area-of-island](https://github.com/kashishch28/Leetcode--Java/tree/master/0695-max-area-of-island) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -432,6 +435,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/kashishch28/Leetcode--Java/tree/master/0695-max-area-of-island) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kashishch28/Leetcode--Java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kashishch28/Leetcode--Java/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## String Matching
@@ -442,4 +446,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/0572-subtree-of-another-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/kashishch28/Leetcode--Java/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->

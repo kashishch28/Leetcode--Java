@@ -42,6 +42,7 @@
 | [0724-find-pivot-index](https://github.com/kashishch28/Leetcode--Java/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kashishch28/Leetcode--Java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kashishch28/Leetcode--Java/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0994-rotting-oranges](https://github.com/kashishch28/Leetcode--Java/tree/master/0994-rotting-oranges) |
 | [1018-largest-perimeter-triangle](https://github.com/kashishch28/Leetcode--Java/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/kashishch28/Leetcode--Java/tree/master/1200-minimum-absolute-difference) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kashishch28/Leetcode--Java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -372,6 +373,7 @@
 | [0404-sum-of-left-leaves](https://github.com/kashishch28/Leetcode--Java/tree/master/0404-sum-of-left-leaves) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0695-max-area-of-island](https://github.com/kashishch28/Leetcode--Java/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/kashishch28/Leetcode--Java/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -439,6 +441,7 @@
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/kashishch28/Leetcode--Java/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/kashishch28/Leetcode--Java/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kashishch28/Leetcode--Java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kashishch28/Leetcode--Java/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kashishch28/Leetcode--Java/tree/master/1727-largest-submatrix-with-rearrangements) |

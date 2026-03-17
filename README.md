@@ -48,6 +48,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/kashishch28/Leetcode--Java/tree/master/1441-build-an-array-with-stack-operations) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/kashishch28/Leetcode--Java/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kashishch28/Leetcode--Java/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/kashishch28/Leetcode--Java/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/kashishch28/Leetcode--Java/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/kashishch28/Leetcode--Java/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/kashishch28/Leetcode--Java/tree/master/1980-find-unique-binary-string) |
@@ -188,6 +189,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/kashishch28/Leetcode--Java/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/kashishch28/Leetcode--Java/tree/master/1200-minimum-absolute-difference) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/kashishch28/Leetcode--Java/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/kashishch28/Leetcode--Java/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kashishch28/Leetcode--Java/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2007-find-original-array-from-doubled-array](https://github.com/kashishch28/Leetcode--Java/tree/master/2007-find-original-array-from-doubled-array) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/kashishch28/Leetcode--Java/tree/master/2195-append-k-integers-with-minimal-sum) |
@@ -244,6 +246,7 @@
 | [1382-balance-a-binary-search-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/1382-balance-a-binary-search-tree) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/kashishch28/Leetcode--Java/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kashishch28/Leetcode--Java/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/kashishch28/Leetcode--Java/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2007-find-original-array-from-doubled-array](https://github.com/kashishch28/Leetcode--Java/tree/master/2007-find-original-array-from-doubled-array) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/kashishch28/Leetcode--Java/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/kashishch28/Leetcode--Java/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -438,6 +441,7 @@
 | [0695-max-area-of-island](https://github.com/kashishch28/Leetcode--Java/tree/master/0695-max-area-of-island) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kashishch28/Leetcode--Java/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kashishch28/Leetcode--Java/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/kashishch28/Leetcode--Java/tree/master/1727-largest-submatrix-with-rearrangements) |
 ## String Matching
 |  |
 | ------- |

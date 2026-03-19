@@ -116,6 +116,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/kashishch28/Leetcode--Java/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/kashishch28/Leetcode--Java/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2288-count-operations-to-obtain-zero](https://github.com/kashishch28/Leetcode--Java/tree/master/2288-count-operations-to-obtain-zero) |
+| [2413-smallest-even-multiple](https://github.com/kashishch28/Leetcode--Java/tree/master/2413-smallest-even-multiple) |
 | [3336-water-bottles-ii](https://github.com/kashishch28/Leetcode--Java/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/kashishch28/Leetcode--Java/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kashishch28/Leetcode--Java/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -461,4 +462,8 @@
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/kashishch28/Leetcode--Java/tree/master/0695-max-area-of-island) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/kashishch28/Leetcode--Java/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->

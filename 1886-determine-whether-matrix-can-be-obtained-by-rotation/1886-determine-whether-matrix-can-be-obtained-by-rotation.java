@@ -1,31 +1,44 @@
 class Solution {
-    public boolean findRotation(int[][] mat, int[][] target) {
-        if(compare(mat, target))return true;
-        int count = 3;
-        while(count > 0){
-            mat = rotate(mat);
-            if(compare(mat, target))return true;
-            count--;
-        }
-        return false;
-    }
 
-    boolean compare(int[][] mat, int[][] target){
+    void rotate(int[][] mat){
         int n = mat.length;
-        for(int i=0;i<n;i++)for(int j=0;j<n;j++)if(mat[i][j]!=target[i][j])return false;
-        return true;
-    }
-
-    int[][]rotate(int[][]mat){
-        int n = mat.length;
-        int[][]res = new int[n][n];
-
         for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
-                res[n-1-j][i] = mat[i][j];
+            for(int j=i;j<n;j++){
+                int temp = mat[i][j];
+                mat[i][j] = mat[j][i];
+                mat[j][i] = temp;
             }
         }
-
-        return res;
+        //reverse
+        for(int i=0;i<n;i++){
+            int left=0;
+            int right = n-1;
+            while(left<right){
+                int temp = mat[i][left];
+                mat[i][left] = mat[i][right];
+                mat[i][right] = temp;
+                left++;
+                right--;
+            }
+            
+        }
+    }
+    public boolean findRotation(int[][] mat, int[][] target) {
+        int n = mat.length;
+        for(int c=1;c<=4;c++){
+            boolean equal=true;
+            for(int i=0;i<n;i++){
+                for(int j=0;j<n;j++){
+                    if(mat[i][j]!=target[i][j]){
+                        equal=false;
+                        break;
+                    }
+                }
+                if(!equal)break;
+            }
+            if(equal)return true;
+            rotate(mat);
+        }
+        return false;
     }
 }

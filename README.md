@@ -63,6 +63,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/kashishch28/Leetcode--Java/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/kashishch28/Leetcode--Java/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/kashishch28/Leetcode--Java/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3546-equal-sum-grid-partition-i](https://github.com/kashishch28/Leetcode--Java/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/kashishch28/Leetcode--Java/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kashishch28/Leetcode--Java/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3634-minimum-removals-to-balance-array](https://github.com/kashishch28/Leetcode--Java/tree/master/3634-minimum-removals-to-balance-array) |
@@ -285,6 +286,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/kashishch28/Leetcode--Java/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/kashishch28/Leetcode--Java/tree/master/0724-find-pivot-index) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/kashishch28/Leetcode--Java/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3546-equal-sum-grid-partition-i](https://github.com/kashishch28/Leetcode--Java/tree/master/3546-equal-sum-grid-partition-i) |
 ## Stack
 |  |
 | ------- |
@@ -451,6 +453,7 @@
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/kashishch28/Leetcode--Java/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/kashishch28/Leetcode--Java/tree/master/3546-equal-sum-grid-partition-i) |
 ## Matrix
 |  |
 | ------- |
@@ -460,6 +463,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kashishch28/Leetcode--Java/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kashishch28/Leetcode--Java/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kashishch28/Leetcode--Java/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [3546-equal-sum-grid-partition-i](https://github.com/kashishch28/Leetcode--Java/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/kashishch28/Leetcode--Java/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/kashishch28/Leetcode--Java/tree/master/3643-flip-square-submatrix-vertically) |
 ## String Matching

@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/kashishch28/Leetcode--Java/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kashishch28/Leetcode--Java/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kashishch28/Leetcode--Java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/kashishch28/Leetcode--Java/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kashishch28/Leetcode--Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/kashishch28/Leetcode--Java/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/kashishch28/Leetcode--Java/tree/master/0046-permutations) |
@@ -224,6 +225,7 @@
 | [0016-3sum-closest](https://github.com/kashishch28/Leetcode--Java/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kashishch28/Leetcode--Java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kashishch28/Leetcode--Java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/kashishch28/Leetcode--Java/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/kashishch28/Leetcode--Java/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/kashishch28/Leetcode--Java/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/kashishch28/Leetcode--Java/tree/master/0151-reverse-words-in-a-string) |

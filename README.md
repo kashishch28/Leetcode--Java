@@ -34,6 +34,7 @@
 | [0229-majority-element-ii](https://github.com/kashishch28/Leetcode--Java/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/kashishch28/Leetcode--Java/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/kashishch28/Leetcode--Java/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/kashishch28/Leetcode--Java/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/kashishch28/Leetcode--Java/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kashishch28/Leetcode--Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/kashishch28/Leetcode--Java/tree/master/0455-assign-cookies) |
@@ -259,6 +260,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/kashishch28/Leetcode--Java/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/kashishch28/Leetcode--Java/tree/master/0135-candy) |
+| [0334-increasing-triplet-subsequence](https://github.com/kashishch28/Leetcode--Java/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/kashishch28/Leetcode--Java/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/kashishch28/Leetcode--Java/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kashishch28/Leetcode--Java/tree/master/0455-assign-cookies) |

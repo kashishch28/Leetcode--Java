@@ -119,6 +119,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/kashishch28/Leetcode--Java/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/kashishch28/Leetcode--Java/tree/master/1018-largest-perimeter-triangle) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/kashishch28/Leetcode--Java/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1137-n-th-tribonacci-number](https://github.com/kashishch28/Leetcode--Java/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kashishch28/Leetcode--Java/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/kashishch28/Leetcode--Java/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/kashishch28/Leetcode--Java/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -251,6 +252,7 @@
 | [0392-is-subsequence](https://github.com/kashishch28/Leetcode--Java/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/kashishch28/Leetcode--Java/tree/master/0435-non-overlapping-intervals) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/kashishch28/Leetcode--Java/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1137-n-th-tribonacci-number](https://github.com/kashishch28/Leetcode--Java/tree/master/1137-n-th-tribonacci-number) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/kashishch28/Leetcode--Java/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Greedy
 |  |
@@ -489,4 +491,8 @@
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/kashishch28/Leetcode--Java/tree/master/2413-smallest-even-multiple) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/kashishch28/Leetcode--Java/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->

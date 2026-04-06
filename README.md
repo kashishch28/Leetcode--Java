@@ -46,6 +46,7 @@
 | [0704-binary-search](https://github.com/kashishch28/Leetcode--Java/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/kashishch28/Leetcode--Java/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kashishch28/Leetcode--Java/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0874-walking-robot-simulation](https://github.com/kashishch28/Leetcode--Java/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kashishch28/Leetcode--Java/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0994-rotting-oranges](https://github.com/kashishch28/Leetcode--Java/tree/master/0994-rotting-oranges) |
 | [1018-largest-perimeter-triangle](https://github.com/kashishch28/Leetcode--Java/tree/master/1018-largest-perimeter-triangle) |
@@ -87,6 +88,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kashishch28/Leetcode--Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kashishch28/Leetcode--Java/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/kashishch28/Leetcode--Java/tree/master/0645-set-mismatch) |
+| [0874-walking-robot-simulation](https://github.com/kashishch28/Leetcode--Java/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kashishch28/Leetcode--Java/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/kashishch28/Leetcode--Java/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/kashishch28/Leetcode--Java/tree/master/1189-maximum-number-of-balloons) |
@@ -329,6 +331,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0874-walking-robot-simulation](https://github.com/kashishch28/Leetcode--Java/tree/master/0874-walking-robot-simulation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/kashishch28/Leetcode--Java/tree/master/1441-build-an-array-with-stack-operations) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/kashishch28/Leetcode--Java/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/kashishch28/Leetcode--Java/tree/master/1929-concatenation-of-array) |

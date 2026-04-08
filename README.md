@@ -73,6 +73,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kashishch28/Leetcode--Java/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3634-minimum-removals-to-balance-array](https://github.com/kashishch28/Leetcode--Java/tree/master/3634-minimum-removals-to-balance-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/kashishch28/Leetcode--Java/tree/master/3643-flip-square-submatrix-vertically) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/kashishch28/Leetcode--Java/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -188,6 +189,7 @@
 | [0169-majority-element](https://github.com/kashishch28/Leetcode--Java/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/kashishch28/Leetcode--Java/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/1382-balance-a-binary-search-tree) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/kashishch28/Leetcode--Java/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Sorting
 |  |
 | ------- |
@@ -342,6 +344,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/kashishch28/Leetcode--Java/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/kashishch28/Leetcode--Java/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3336-water-bottles-ii](https://github.com/kashishch28/Leetcode--Java/tree/master/3336-water-bottles-ii) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/kashishch28/Leetcode--Java/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Tree
 |  |
 | ------- |

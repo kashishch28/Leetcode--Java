@@ -100,6 +100,7 @@
 | [2007-find-original-array-from-doubled-array](https://github.com/kashishch28/Leetcode--Java/tree/master/2007-find-original-array-from-doubled-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/kashishch28/Leetcode--Java/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/kashishch28/Leetcode--Java/tree/master/2531-make-number-of-distinct-characters-equal) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/kashishch28/Leetcode--Java/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kashishch28/Leetcode--Java/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/kashishch28/Leetcode--Java/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Linked List
@@ -176,6 +177,7 @@
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kashishch28/Leetcode--Java/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/kashishch28/Leetcode--Java/tree/master/2531-make-number-of-distinct-characters-equal) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/kashishch28/Leetcode--Java/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/kashishch28/Leetcode--Java/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/kashishch28/Leetcode--Java/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Sliding Window
 |  |

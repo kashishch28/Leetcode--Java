@@ -48,6 +48,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kashishch28/Leetcode--Java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0874-walking-robot-simulation](https://github.com/kashishch28/Leetcode--Java/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kashishch28/Leetcode--Java/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/kashishch28/Leetcode--Java/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/kashishch28/Leetcode--Java/tree/master/0994-rotting-oranges) |
 | [1018-largest-perimeter-triangle](https://github.com/kashishch28/Leetcode--Java/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/kashishch28/Leetcode--Java/tree/master/1200-minimum-absolute-difference) |
@@ -211,6 +212,7 @@
 | [0455-assign-cookies](https://github.com/kashishch28/Leetcode--Java/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/kashishch28/Leetcode--Java/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/kashishch28/Leetcode--Java/tree/master/0645-set-mismatch) |
+| [0977-squares-of-a-sorted-array](https://github.com/kashishch28/Leetcode--Java/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-largest-perimeter-triangle](https://github.com/kashishch28/Leetcode--Java/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/kashishch28/Leetcode--Java/tree/master/1200-minimum-absolute-difference) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/kashishch28/Leetcode--Java/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -249,6 +251,7 @@
 | [0392-is-subsequence](https://github.com/kashishch28/Leetcode--Java/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/kashishch28/Leetcode--Java/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/kashishch28/Leetcode--Java/tree/master/0611-valid-triangle-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/kashishch28/Leetcode--Java/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/kashishch28/Leetcode--Java/tree/master/1768-merge-strings-alternately) |
 | [3643-flip-square-submatrix-vertically](https://github.com/kashishch28/Leetcode--Java/tree/master/3643-flip-square-submatrix-vertically) |
 ## Dynamic Programming

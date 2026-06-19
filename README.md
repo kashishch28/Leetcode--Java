@@ -57,6 +57,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/kashishch28/Leetcode--Java/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kashishch28/Leetcode--Java/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kashishch28/Leetcode--Java/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1732-find-the-highest-altitude](https://github.com/kashishch28/Leetcode--Java/tree/master/1732-find-the-highest-altitude) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/kashishch28/Leetcode--Java/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/kashishch28/Leetcode--Java/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kashishch28/Leetcode--Java/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -311,6 +312,7 @@
 | [0238-product-of-array-except-self](https://github.com/kashishch28/Leetcode--Java/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/kashishch28/Leetcode--Java/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/kashishch28/Leetcode--Java/tree/master/0724-find-pivot-index) |
+| [1732-find-the-highest-altitude](https://github.com/kashishch28/Leetcode--Java/tree/master/1732-find-the-highest-altitude) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/kashishch28/Leetcode--Java/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3546-equal-sum-grid-partition-i](https://github.com/kashishch28/Leetcode--Java/tree/master/3546-equal-sum-grid-partition-i) |
 ## Stack

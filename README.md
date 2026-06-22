@@ -40,6 +40,7 @@
 | [0455-assign-cookies](https://github.com/kashishch28/Leetcode--Java/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kashishch28/Leetcode--Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kashishch28/Leetcode--Java/tree/master/0560-subarray-sum-equals-k) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/kashishch28/Leetcode--Java/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/kashishch28/Leetcode--Java/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/kashishch28/Leetcode--Java/tree/master/0645-set-mismatch) |
 | [0695-max-area-of-island](https://github.com/kashishch28/Leetcode--Java/tree/master/0695-max-area-of-island) |
@@ -212,6 +213,7 @@
 | [0242-valid-anagram](https://github.com/kashishch28/Leetcode--Java/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/kashishch28/Leetcode--Java/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kashishch28/Leetcode--Java/tree/master/0455-assign-cookies) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/kashishch28/Leetcode--Java/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/kashishch28/Leetcode--Java/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/kashishch28/Leetcode--Java/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/kashishch28/Leetcode--Java/tree/master/0977-squares-of-a-sorted-array) |
@@ -253,6 +255,7 @@
 | [0392-is-subsequence](https://github.com/kashishch28/Leetcode--Java/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/kashishch28/Leetcode--Java/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kashishch28/Leetcode--Java/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/kashishch28/Leetcode--Java/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/kashishch28/Leetcode--Java/tree/master/0611-valid-triangle-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/kashishch28/Leetcode--Java/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/kashishch28/Leetcode--Java/tree/master/1768-merge-strings-alternately) |
@@ -281,6 +284,7 @@
 | [0409-longest-palindrome](https://github.com/kashishch28/Leetcode--Java/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/kashishch28/Leetcode--Java/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kashishch28/Leetcode--Java/tree/master/0455-assign-cookies) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/kashishch28/Leetcode--Java/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/kashishch28/Leetcode--Java/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/kashishch28/Leetcode--Java/tree/master/1018-largest-perimeter-triangle) |
 | [1382-balance-a-binary-search-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/1382-balance-a-binary-search-tree) |
@@ -325,6 +329,7 @@
 | [0225-implement-stack-using-queues](https://github.com/kashishch28/Leetcode--Java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kashishch28/Leetcode--Java/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/kashishch28/Leetcode--Java/tree/master/0234-palindrome-linked-list) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/kashishch28/Leetcode--Java/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0856-score-of-parentheses](https://github.com/kashishch28/Leetcode--Java/tree/master/0856-score-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/kashishch28/Leetcode--Java/tree/master/1441-build-an-array-with-stack-operations) |
 | [1544-make-the-string-great](https://github.com/kashishch28/Leetcode--Java/tree/master/1544-make-the-string-great) |
@@ -517,4 +522,8 @@
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/kashishch28/Leetcode--Java/tree/master/1137-n-th-tribonacci-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/kashishch28/Leetcode--Java/tree/master/0581-shortest-unsorted-continuous-subarray) |
 <!---LeetCode Topics End-->

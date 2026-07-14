@@ -5,12 +5,20 @@ class Solution {
         return result;    
     }
     private void back(int ind,int[] nums,List<Integer>temp,List<List<Integer>>ans){
-        ans.add(new ArrayList<>(temp));
-        for(int i=ind;i<nums.length;i++){
-            temp.add(nums[i]);
-            back(i+1,nums,temp,ans);
-            temp.remove(temp.size()-1);
+        if(nums.length==ind){
+            ans.add(new ArrayList<>(temp));
+            return; 
         }
+        // for(int i=ind;i<nums.length;i++){
+        //     temp.add(nums[i]);
+        //     back(i+1,nums,temp,ans);
+        //     temp.remove(temp.size()-1);
+        // }
+        temp.add(nums[ind]);
+        back(ind+1,nums,temp,ans);
+ 
+        temp.remove(temp.size()-1);
+        back(ind+1,nums,temp,ans);
     }
 }
 

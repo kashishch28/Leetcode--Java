@@ -15,8 +15,7 @@
  */
 class Solution {
     int dia=0;
-    public int diameterOfBinaryTree(TreeNode root) {
-        // int dia=0;
+    public int diameterOfBinaryTree(TreeNode root) {  //maximum path betweeen two nodes
         height(root);
         return dia;
     }

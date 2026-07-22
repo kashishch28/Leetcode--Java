@@ -8,13 +8,10 @@ class Solution {
             sum+=nums[end];
             while(sum>=target){
                 res = Math.min(res,end-start+1);
-                sum -=nums[start];  
-                //after updation remove first element by reduceing sum by start and increasing start
+                sum -=nums[start];
                 start++;
             }
         }
-        // if(res==Integer.MAX_VALUE)return 0;
-        // return res;
-        return res==Integer.MAX_VALUE? 0:res;
+        return res==Integer.MAX_VALUE?0:res;
     }
 }

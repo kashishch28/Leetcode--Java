@@ -434,6 +434,7 @@
 | [0337-house-robber-iii](https://github.com/kashishch28/Leetcode--Java/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/kashishch28/Leetcode--Java/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/kashishch28/Leetcode--Java/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/kashishch28/Leetcode--Java/tree/master/0695-max-area-of-island) |
@@ -449,6 +450,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/kashishch28/Leetcode--Java/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/kashishch28/Leetcode--Java/tree/master/0404-sum-of-left-leaves) |
+| [0547-number-of-provinces](https://github.com/kashishch28/Leetcode--Java/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/kashishch28/Leetcode--Java/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0695-max-area-of-island](https://github.com/kashishch28/Leetcode--Java/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/kashishch28/Leetcode--Java/tree/master/0994-rotting-oranges) |
@@ -542,6 +544,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kashishch28/Leetcode--Java/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/kashishch28/Leetcode--Java/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/kashishch28/Leetcode--Java/tree/master/0695-max-area-of-island) |
 ## Number Theory
 |  |
@@ -569,4 +572,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kashishch28/Leetcode--Java/tree/master/0347-top-k-frequent-elements) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/kashishch28/Leetcode--Java/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->

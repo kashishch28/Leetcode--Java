@@ -85,6 +85,7 @@
 | [3634-minimum-removals-to-balance-array](https://github.com/kashishch28/Leetcode--Java/tree/master/3634-minimum-removals-to-balance-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/kashishch28/Leetcode--Java/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/kashishch28/Leetcode--Java/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3731-find-missing-elements](https://github.com/kashishch28/Leetcode--Java/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/kashishch28/Leetcode--Java/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
 |  |
@@ -115,6 +116,7 @@
 | [2531-make-number-of-distinct-characters-equal](https://github.com/kashishch28/Leetcode--Java/tree/master/2531-make-number-of-distinct-characters-equal) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/kashishch28/Leetcode--Java/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kashishch28/Leetcode--Java/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3731-find-missing-elements](https://github.com/kashishch28/Leetcode--Java/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/kashishch28/Leetcode--Java/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Linked List
 |  |
@@ -249,6 +251,7 @@
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/kashishch28/Leetcode--Java/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/kashishch28/Leetcode--Java/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/kashishch28/Leetcode--Java/tree/master/3634-minimum-removals-to-balance-array) |
+| [3731-find-missing-elements](https://github.com/kashishch28/Leetcode--Java/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |

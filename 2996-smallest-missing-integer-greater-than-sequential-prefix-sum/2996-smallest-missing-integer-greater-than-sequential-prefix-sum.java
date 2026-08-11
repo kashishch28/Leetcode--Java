@@ -1,0 +1,14 @@
+class Solution {
+    public int missingInteger(int[] nums) {
+        int countS = nums[0];
+        for(int i=1;i<nums.length;i++){
+            if(nums[i]==nums[i-1]+1)countS+=nums[i];
+            else break;
+        }
+        Arrays.sort(nums);
+        for(int i=0;i<nums.length;i++){
+            if(countS==nums[i])countS++;
+        }
+        return countS;
+    }
+}

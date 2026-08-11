@@ -77,6 +77,7 @@
 | [2195-append-k-integers-with-minimal-sum](https://github.com/kashishch28/Leetcode--Java/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/kashishch28/Leetcode--Java/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kashishch28/Leetcode--Java/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kashishch28/Leetcode--Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/kashishch28/Leetcode--Java/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/kashishch28/Leetcode--Java/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3546-equal-sum-grid-partition-i](https://github.com/kashishch28/Leetcode--Java/tree/master/3546-equal-sum-grid-partition-i) |
@@ -114,6 +115,7 @@
 | [2007-find-original-array-from-doubled-array](https://github.com/kashishch28/Leetcode--Java/tree/master/2007-find-original-array-from-doubled-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/kashishch28/Leetcode--Java/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/kashishch28/Leetcode--Java/tree/master/2531-make-number-of-distinct-characters-equal) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kashishch28/Leetcode--Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/kashishch28/Leetcode--Java/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kashishch28/Leetcode--Java/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3731-find-missing-elements](https://github.com/kashishch28/Leetcode--Java/tree/master/3731-find-missing-elements) |
@@ -248,6 +250,7 @@
 | [2007-find-original-array-from-doubled-array](https://github.com/kashishch28/Leetcode--Java/tree/master/2007-find-original-array-from-doubled-array) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/kashishch28/Leetcode--Java/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/kashishch28/Leetcode--Java/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kashishch28/Leetcode--Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/kashishch28/Leetcode--Java/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/kashishch28/Leetcode--Java/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/kashishch28/Leetcode--Java/tree/master/3634-minimum-removals-to-balance-array) |

@@ -87,6 +87,7 @@
 | [3634-minimum-removals-to-balance-array](https://github.com/kashishch28/Leetcode--Java/tree/master/3634-minimum-removals-to-balance-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/kashishch28/Leetcode--Java/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/kashishch28/Leetcode--Java/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kashishch28/Leetcode--Java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/kashishch28/Leetcode--Java/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/kashishch28/Leetcode--Java/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
@@ -511,6 +512,7 @@
 | [0693-binary-number-with-alternating-bits](https://github.com/kashishch28/Leetcode--Java/tree/master/0693-binary-number-with-alternating-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/kashishch28/Leetcode--Java/tree/master/1009-complement-of-base-10-integer) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/kashishch28/Leetcode--Java/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kashishch28/Leetcode--Java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Backtracking
 |  |
 | ------- |

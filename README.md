@@ -162,6 +162,7 @@
 | [3336-water-bottles-ii](https://github.com/kashishch28/Leetcode--Java/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/kashishch28/Leetcode--Java/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kashishch28/Leetcode--Java/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kashishch28/Leetcode--Java/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/kashishch28/Leetcode--Java/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |

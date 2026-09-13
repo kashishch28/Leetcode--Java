@@ -595,4 +595,5 @@
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/kashishch28/Leetcode--Java/tree/master/0176-second-highest-salary) |
+| [0595-big-countries](https://github.com/kashishch28/Leetcode--Java/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->

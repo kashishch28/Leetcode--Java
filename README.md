@@ -597,5 +597,6 @@
 | [0176-second-highest-salary](https://github.com/kashishch28/Leetcode--Java/tree/master/0176-second-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/kashishch28/Leetcode--Java/tree/master/0196-delete-duplicate-emails) |
 | [0595-big-countries](https://github.com/kashishch28/Leetcode--Java/tree/master/0595-big-countries) |
+| [1251-average-selling-price](https://github.com/kashishch28/Leetcode--Java/tree/master/1251-average-selling-price) |
 | [1484-group-sold-products-by-the-date](https://github.com/kashishch28/Leetcode--Java/tree/master/1484-group-sold-products-by-the-date) |
 <!---LeetCode Topics End-->

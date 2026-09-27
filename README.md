@@ -601,5 +601,6 @@
 | [1075-project-employees-i](https://github.com/kashishch28/Leetcode--Java/tree/master/1075-project-employees-i) |
 | [1251-average-selling-price](https://github.com/kashishch28/Leetcode--Java/tree/master/1251-average-selling-price) |
 | [1484-group-sold-products-by-the-date](https://github.com/kashishch28/Leetcode--Java/tree/master/1484-group-sold-products-by-the-date) |
+| [1729-find-followers-count](https://github.com/kashishch28/Leetcode--Java/tree/master/1729-find-followers-count) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/kashishch28/Leetcode--Java/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->

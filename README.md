@@ -598,6 +598,7 @@
 | [0196-delete-duplicate-emails](https://github.com/kashishch28/Leetcode--Java/tree/master/0196-delete-duplicate-emails) |
 | [0595-big-countries](https://github.com/kashishch28/Leetcode--Java/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/kashishch28/Leetcode--Java/tree/master/0596-classes-with-at-least-5-students) |
+| [0626-exchange-seats](https://github.com/kashishch28/Leetcode--Java/tree/master/0626-exchange-seats) |
 | [1075-project-employees-i](https://github.com/kashishch28/Leetcode--Java/tree/master/1075-project-employees-i) |
 | [1251-average-selling-price](https://github.com/kashishch28/Leetcode--Java/tree/master/1251-average-selling-price) |
 | [1484-group-sold-products-by-the-date](https://github.com/kashishch28/Leetcode--Java/tree/master/1484-group-sold-products-by-the-date) |

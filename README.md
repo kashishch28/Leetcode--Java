@@ -209,6 +209,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kashishch28/Leetcode--Java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/kashishch28/Leetcode--Java/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/kashishch28/Leetcode--Java/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3498-reverse-degree-of-a-string](https://github.com/kashishch28/Leetcode--Java/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -405,6 +406,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/kashishch28/Leetcode--Java/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/kashishch28/Leetcode--Java/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3336-water-bottles-ii](https://github.com/kashishch28/Leetcode--Java/tree/master/3336-water-bottles-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/kashishch28/Leetcode--Java/tree/master/3498-reverse-degree-of-a-string) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/kashishch28/Leetcode--Java/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Tree
 |  |

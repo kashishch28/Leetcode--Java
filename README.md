@@ -606,4 +606,8 @@
 | [1729-find-followers-count](https://github.com/kashishch28/Leetcode--Java/tree/master/1729-find-followers-count) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/kashishch28/Leetcode--Java/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/kashishch28/Leetcode--Java/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/kashishch28/Leetcode--Java/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->

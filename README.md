@@ -605,6 +605,7 @@
 | [0626-exchange-seats](https://github.com/kashishch28/Leetcode--Java/tree/master/0626-exchange-seats) |
 | [1075-project-employees-i](https://github.com/kashishch28/Leetcode--Java/tree/master/1075-project-employees-i) |
 | [1251-average-selling-price](https://github.com/kashishch28/Leetcode--Java/tree/master/1251-average-selling-price) |
+| [1341-movie-rating](https://github.com/kashishch28/Leetcode--Java/tree/master/1341-movie-rating) |
 | [1484-group-sold-products-by-the-date](https://github.com/kashishch28/Leetcode--Java/tree/master/1484-group-sold-products-by-the-date) |
 | [1729-find-followers-count](https://github.com/kashishch28/Leetcode--Java/tree/master/1729-find-followers-count) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/kashishch28/Leetcode--Java/tree/master/1978-employees-whose-manager-left-the-company) |

@@ -614,4 +614,5 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kashishch28/Leetcode--Java/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/kashishch28/Leetcode--Java/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->

@@ -601,6 +601,7 @@
 | [0180-consecutive-numbers](https://github.com/kashishch28/Leetcode--Java/tree/master/0180-consecutive-numbers) |
 | [0185-department-top-three-salaries](https://github.com/kashishch28/Leetcode--Java/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/kashishch28/Leetcode--Java/tree/master/0196-delete-duplicate-emails) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/kashishch28/Leetcode--Java/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0595-big-countries](https://github.com/kashishch28/Leetcode--Java/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/kashishch28/Leetcode--Java/tree/master/0596-classes-with-at-least-5-students) |
 | [0626-exchange-seats](https://github.com/kashishch28/Leetcode--Java/tree/master/0626-exchange-seats) |

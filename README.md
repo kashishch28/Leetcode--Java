@@ -147,6 +147,7 @@
 | [0066-plus-one](https://github.com/kashishch28/Leetcode--Java/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/kashishch28/Leetcode--Java/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kashishch28/Leetcode--Java/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0172-factorial-trailing-zeroes](https://github.com/kashishch28/Leetcode--Java/tree/master/0172-factorial-trailing-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kashishch28/Leetcode--Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/kashishch28/Leetcode--Java/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/kashishch28/Leetcode--Java/tree/master/1015-smallest-integer-divisible-by-k) |

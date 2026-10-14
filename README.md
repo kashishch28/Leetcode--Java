@@ -606,6 +606,7 @@
 | [0595-big-countries](https://github.com/kashishch28/Leetcode--Java/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/kashishch28/Leetcode--Java/tree/master/0596-classes-with-at-least-5-students) |
 | [0626-exchange-seats](https://github.com/kashishch28/Leetcode--Java/tree/master/0626-exchange-seats) |
+| [0627-swap-sex-of-employees](https://github.com/kashishch28/Leetcode--Java/tree/master/0627-swap-sex-of-employees) |
 | [1075-project-employees-i](https://github.com/kashishch28/Leetcode--Java/tree/master/1075-project-employees-i) |
 | [1211-queries-quality-and-percentage](https://github.com/kashishch28/Leetcode--Java/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/kashishch28/Leetcode--Java/tree/master/1251-average-selling-price) |

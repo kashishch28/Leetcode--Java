@@ -605,6 +605,7 @@
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/kashishch28/Leetcode--Java/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0595-big-countries](https://github.com/kashishch28/Leetcode--Java/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/kashishch28/Leetcode--Java/tree/master/0596-classes-with-at-least-5-students) |
+| [0619-biggest-single-number](https://github.com/kashishch28/Leetcode--Java/tree/master/0619-biggest-single-number) |
 | [0626-exchange-seats](https://github.com/kashishch28/Leetcode--Java/tree/master/0626-exchange-seats) |
 | [0627-swap-sex-of-employees](https://github.com/kashishch28/Leetcode--Java/tree/master/0627-swap-sex-of-employees) |
 | [1075-project-employees-i](https://github.com/kashishch28/Leetcode--Java/tree/master/1075-project-employees-i) |
